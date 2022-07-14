@@ -1,0 +1,3 @@
+Question 1
+
+Write a Program to perform addition of all elements in Array
