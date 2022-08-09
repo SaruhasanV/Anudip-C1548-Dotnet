@@ -1,2 +1,2 @@
-Lap Program
-ASP.NET Program for creating student details form and perform operations like update,delete,insert and to show record in a table with databaseconnectivity.
+Lab Program
+ASP.NET webforms for creating student details form and perform operations like update,delete,insert and to show record in a table with databaseconnectivity.
